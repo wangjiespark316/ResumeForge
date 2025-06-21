@@ -20,6 +20,7 @@ A clean and modern resume generator built with Vue.js and Tailwind CSS. Instantl
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) or any other export tool (if used)
+- 👉 [GitHub Repository](https://github.com/wangjiespark316/ResumeForge)
 
 ## 📦 Installation
 
