@@ -25,7 +25,7 @@ A clean and modern resume generator built with Vue.js and Tailwind CSS. Instantl
 
 ```bash
 git clone https://github.com/wangjiespark316/ResumeForge.git
-[👉 GitHub Repository](https://github.com/wangjiespark316/ResumeForge)
+👉 [GitHub Repository](https://github.com/wangjiespark316/ResumeForge)
 cd ResumeForge
 npm install
 npm run dev
